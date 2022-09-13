@@ -27,6 +27,6 @@ meuArray.reverse();
 
 console.log(meuArray) // ['nos', 'tu', 'eu']
 // O propio nome diz ela faz o reversso , o primeiro sera o ultimo e ultimo sera o primeiro
-
+// TESTE
 
 
